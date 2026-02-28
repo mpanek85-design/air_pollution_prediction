@@ -1,0 +1,21 @@
+{
+  "weather_columns": [
+    "TEMP",
+    "WTEMP",
+    "TPTR",
+    "WTPTR",
+    "PPPS",
+    "WPPPS",
+    "TECH",
+    "NOG",
+    "WNOG",
+    "KRWR",
+    "WKRWR",
+    "FWR",
+    "WFWR",
+    "PORW",
+    "WPORW",
+    "WLGW",
+    "WWLGW"
+  ]
+}

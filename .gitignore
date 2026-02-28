@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+logs/
+processed_data/
+air_polution_data/
+extraced_air_pollution_data/
+.vscode/
+weather_data/
+weather_2025/
+combined*
+joined*
+*.csv
+*.zip
+*.log
+*.parquet
+*.egg-info
+
+# Virtual environments
+.venv
+

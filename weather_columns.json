@@ -17,5 +17,11 @@
     "WPORW",
     "WLGW",
     "WWLGW"
+  ],
+  "timestamp_columns": [
+    "ROK",
+    "MC",
+    "DZ",
+    "GG"
   ]
 }
